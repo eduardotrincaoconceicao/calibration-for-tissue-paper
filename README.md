@@ -1,5 +1,5 @@
-> Data Files with datasets, code, and software used for paper _Calibration of a
-geometric computer model for planar random networks with application to
+> Data Files with datasets, code, and software used for the paper _Calibration
+of a geometric computer model for planar random networks with application to
 tissue papers_
 
 1. **exptdata+figs-suppinfo.R** An R script containing the experimental raw
